@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(173, 108, 30, 0.307);
+}
+h1 {
+    background-color: rgba(77, 97, 247, 0.555);
+}
+img {
+    background-image: url(../img/familia-tupfeln.jpg);
+    background-position: right;
+}

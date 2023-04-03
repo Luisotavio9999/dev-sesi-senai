@@ -1,0 +1,38 @@
+.p1{
+    border: 2px solid rgb(0, 0, 0);
+       }
+.p2{
+    border-bottom: 2px solid red;
+}
+.p3{
+    border: 2px solid green;
+    border-radius: 5px;
+}
+.p4{
+    border-left: 5px solid blue
+}
+.p5{
+    border-top: 2px solid green;
+}
+.p6{
+    border-top: 2px solid yellow;
+    border-left: 2px solid green;
+    border-right: 2px dashed green;
+    border-bottom: 2px dashed red;
+}
+.gif {
+    border-radius: 10%;
+}
+.img2{
+    border-radius: 100%;
+}
+.img3{
+    border-radius: 100%;
+    border: 10px solid transparent;
+    background: linear-gradient(-45deg, red, blue) border-box;
+
+}
+.img4{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

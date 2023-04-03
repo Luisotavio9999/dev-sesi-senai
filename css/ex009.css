@@ -1,0 +1,84 @@
+body{
+    background-color:blanchedalmond;
+    background-position: 5%;
+}
+.div-principal {
+
+    background-color: rgb(252, 252, 252);
+    width: 700px;
+    margin: auto;
+    border-radius: 5%;
+    border: 10px solid rgb(125, 96, 43);
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+    color: orange;
+    text-shadow: 1px 1px 0px black;
+    text-shadow: 1px 1px 2px black, 0 0 5px rgb(0, 0, 0);
+}
+
+h2 {
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-radius: 10px;
+}
+
+.img1 {
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+h2 {
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-radius: 10px;
+}
+
+.img2 {
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+h2{
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-radius: 10px;
+}
+h2 {
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-radius: 10px;
+}
+    .img3 {
+        height: 50px;
+        width: 100px;
+        text-align: right;
+        float: right;
+}
+.div1{
+    margin-left: auto;
+}
+.div2{
+    text-align: center;
+}
+.div3{
+    text-align: right;
+}
+.div-principal2{
+    background-color: rgb(252, 252, 252);
+    width: 300px;
+    margin: left;
+    border-radius: 5px;
+    border: 10px solid rgb(125, 96, 43);
+    padding: 30px;
+    text-align: center;
+}
+.macarron1{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 2px;
+    text-align: center;
+    font-size:5%;
+}
